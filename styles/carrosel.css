@@ -47,9 +47,6 @@
 .descricao__titulo {
     color: var(--rosa-degrade);
     font-weight: 700;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
 }
 
 .descricao__titulo-livro {
