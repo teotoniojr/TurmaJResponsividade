@@ -7,6 +7,8 @@
     --branco: #ffffff;
     --rosa-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
     --laranja: #FECD2F;
+    --azul: #002F52;
+    --preto-transparente: rgba(0, 0, 0, 0.85);
     --fonte-principal: font-family: 'Poppins';
 }
 

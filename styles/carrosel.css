@@ -45,12 +45,12 @@
 }
 
 .descricao__titulo {
-    color: var(--laranja);
+    color: var(--rosa-degrade);
     font-weight: 700;
 }
 
 .descricao__titulo-livro {
-    color: var(--cor-azul);
+    color: var(--azul);
     font-weight: 700;
     font-size: 18px;
     margin: 0.5em 0;
@@ -58,6 +58,7 @@
 
 .descricao__texto {
     font-size: 14px;
+    color: var(--preto-transparente)
 }
 
 .botoes__item {
