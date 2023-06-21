@@ -40,6 +40,7 @@
 .lista__menu-titulo{
     padding: 1em;
     background-color: var(--branco);
+    text-transform: uppercase;
 }
 
 .lista__menu-titulo {
