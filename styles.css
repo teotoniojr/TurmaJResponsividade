@@ -11,6 +11,7 @@
     --preto-transparente: rgba(0, 0, 0, 0.85);
     --rosa-titulo: #4EBFE9;
     --fonte-principal: font-family: 'Poppins';
+    --fonte-secundaria: font-family: 'Josefin Sans', sans-serif;
 }
 
 body{
